@@ -13,7 +13,7 @@ provider "aws" {
   default_tags {
     tags = {
       Terraform   = "True"
-      Owner = "devops-sushil"
+      Owner = "devops"
     }
  }
 }
